@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver2.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" afterDir="false" />
     </list>
@@ -29,6 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="045283ce-d62f-4172-b4c1-a4ce36295ffa" />
+        <option name="url" value="git@github.com:/Vitalend/VkEscalada.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,7 +54,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Виталий/Desktop/TestVk2/SumOfDigits"
+    "last_opened_file_path": "C:/Users/Виталий/Desktop/TestVk2/SumOfDigits",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager">
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687347476971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ver3.">
+      <created>1687417679626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687417679626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Ver2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ver2." />
+    <MESSAGE value="Ver3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ver3." />
   </component>
 </project>
