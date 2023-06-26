@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="VkEscalada:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver5. added some entry">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver6. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлен блок корректировки ответа.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/VkEscalada_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" afterDir="false" />
     </list>
@@ -56,6 +62,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Виталий/Desktop/TestVk2/SumOfDigits",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
@@ -116,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687585092295</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ver6. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлен блок корректировки ответа.">
+      <created>1687776303073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687776303073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +152,7 @@
     <MESSAGE value="Ver3." />
     <MESSAGE value="Ver4." />
     <MESSAGE value="Ver5. added some entry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ver5. added some entry" />
+    <MESSAGE value="Ver6. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлен блок корректировки ответа." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ver6. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлен блок корректировки ответа." />
   </component>
 </project>
