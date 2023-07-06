@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver7. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлены ключи с двойным значением ответа.">
+    <list default="true" id="a8215f82-f6f3-4861-a181-ae3a4b077be0" name="Changes" comment="Ver8. Удалены ключи с двойным значением, добавлены наводящие вопросы.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bot/MessageAnswer.java" afterDir="false" />
     </list>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687802194224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ver8. Удалены ключи с двойным значением, добавлены наводящие вопросы.">
+      <created>1688585795182</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688585795182</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +166,7 @@
     <MESSAGE value="Ver5. added some entry" />
     <MESSAGE value="Ver6. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлен блок корректировки ответа." />
     <MESSAGE value="Ver7. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлены ключи с двойным значением ответа." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ver7. Добавлены ключевые слова, к возвр. значению сконкатенирована строка, добавлены ключи с двойным значением ответа." />
+    <MESSAGE value="Ver8. Удалены ключи с двойным значением, добавлены наводящие вопросы." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ver8. Удалены ключи с двойным значением, добавлены наводящие вопросы." />
   </component>
 </project>
